@@ -1,0 +1,576 @@
+Feature,Importance,model
+feature_102,0.0794325036937731,Video Injection_feature_importance_1.0_100
+feature_13,0.0526926148553566,Video Injection_feature_importance_1.0_100
+feature_29,0.0491629404081077,Video Injection_feature_importance_1.0_100
+feature_78,0.047988879644813,Video Injection_feature_importance_1.0_100
+feature_59,0.0415741012880844,Video Injection_feature_importance_1.0_100
+feature_80,0.0390819604585807,Video Injection_feature_importance_1.0_100
+feature_14,0.0380759642713945,Video Injection_feature_importance_1.0_100
+feature_10,0.034264052200782,Video Injection_feature_importance_1.0_100
+feature_30,0.0327945133679673,Video Injection_feature_importance_1.0_100
+feature_25,0.0322319629299318,Video Injection_feature_importance_1.0_100
+feature_28,0.0319606449214341,Video Injection_feature_importance_1.0_100
+feature_61,0.0312847148852011,Video Injection_feature_importance_1.0_100
+feature_62,0.0295265434743546,Video Injection_feature_importance_1.0_100
+feature_52,0.0262934110000047,Video Injection_feature_importance_1.0_100
+feature_110,0.0261979312814017,Video Injection_feature_importance_1.0_100
+feature_75,0.0252079691278322,Video Injection_feature_importance_1.0_100
+feature_64,0.0251836004239535,Video Injection_feature_importance_1.0_100
+feature_79,0.0247870056578812,Video Injection_feature_importance_1.0_100
+feature_60,0.0229234566488446,Video Injection_feature_importance_1.0_100
+feature_109,0.0227808589120092,Video Injection_feature_importance_1.0_100
+feature_15,0.0227091085405612,Video Injection_feature_importance_1.0_100
+feature_63,0.0221346986199766,Video Injection_feature_importance_1.0_100
+feature_112,0.0208829043521305,Video Injection_feature_importance_1.0_100
+feature_111,0.0187183631703124,Video Injection_feature_importance_1.0_100
+feature_7,0.0179198200919645,Video Injection_feature_importance_1.0_100
+feature_55,0.0172348103361973,Video Injection_feature_importance_1.0_100
+feature_65,0.0151052990488291,Video Injection_feature_importance_1.0_100
+feature_113,0.0129917010449868,Video Injection_feature_importance_1.0_100
+feature_76,0.0098933064253447,Video Injection_feature_importance_1.0_100
+feature_95,0.0098160177983636,Video Injection_feature_importance_1.0_100
+feature_77,0.009468654725594,Video Injection_feature_importance_1.0_100
+feature_22,0.0093872651480645,Video Injection_feature_importance_1.0_100
+feature_38,0.0092634274979565,Video Injection_feature_importance_1.0_100
+feature_54,0.0076660896278818,Video Injection_feature_importance_1.0_100
+feature_72,0.0066945591473704,Video Injection_feature_importance_1.0_100
+feature_69,0.0059190099100954,Video Injection_feature_importance_1.0_100
+feature_88,0.0056908621764153,Video Injection_feature_importance_1.0_100
+feature_45,0.0050923635631503,Video Injection_feature_importance_1.0_100
+feature_31,0.0050639637598392,Video Injection_feature_importance_1.0_100
+feature_19,0.0048363427811443,Video Injection_feature_importance_1.0_100
+feature_4,0.0047659370758616,Video Injection_feature_importance_1.0_100
+feature_106,0.0040630508644015,Video Injection_feature_importance_1.0_100
+feature_104,0.0038681985627773,Video Injection_feature_importance_1.0_100
+feature_56,0.0035874086252006,Video Injection_feature_importance_1.0_100
+feature_12,0.0031698767886968,Video Injection_feature_importance_1.0_100
+feature_27,0.0028342105688002,Video Injection_feature_importance_1.0_100
+feature_57,0.0027587918976762,Video Injection_feature_importance_1.0_100
+feature_53,0.0027520723931891,Video Injection_feature_importance_1.0_100
+feature_81,0.002457645390266,Video Injection_feature_importance_1.0_100
+feature_1,0.0019647081945607,Video Injection_feature_importance_1.0_100
+feature_103,0.0016444497241072,Video Injection_feature_importance_1.0_100
+feature_26,0.0016196012550084,Video Injection_feature_importance_1.0_100
+feature_58,0.0015977214374006,Video Injection_feature_importance_1.0_100
+feature_16,0.0013319407987493,Video Injection_feature_importance_1.0_100
+feature_105,0.0013099896173519,Video Injection_feature_importance_1.0_100
+feature_11,0.0012495319210934,Video Injection_feature_importance_1.0_100
+feature_66,0.0010733339328845,Video Injection_feature_importance_1.0_100
+feature_44,0.0006409192221345,Video Injection_feature_importance_1.0_100
+feature_50,0.0005675982380154,Video Injection_feature_importance_1.0_100
+feature_83,0.00043912638338,Video Injection_feature_importance_1.0_100
+feature_47,0.000436093574963,Video Injection_feature_importance_1.0_100
+feature_91,0.0003746109118862,Video Injection_feature_importance_1.0_100
+feature_24,0.0003600660938937,Video Injection_feature_importance_1.0_100
+feature_51,0.0003424882308598,Video Injection_feature_importance_1.0_100
+feature_84,0.000332170631358,Video Injection_feature_importance_1.0_100
+feature_97,0.000311117917634,Video Injection_feature_importance_1.0_100
+feature_49,0.0003074172924225,Video Injection_feature_importance_1.0_100
+feature_89,0.0002454860461291,Video Injection_feature_importance_1.0_100
+feature_43,0.0002385500691538,Video Injection_feature_importance_1.0_100
+feature_8,0.0002217081428805,Video Injection_feature_importance_1.0_100
+feature_37,0.0002208429865799,Video Injection_feature_importance_1.0_100
+feature_98,0.0002052140813395,Video Injection_feature_importance_1.0_100
+feature_96,0.0001976209094966,Video Injection_feature_importance_1.0_100
+feature_9,0.0001964854047212,Video Injection_feature_importance_1.0_100
+feature_48,0.0001830598521085,Video Injection_feature_importance_1.0_100
+feature_82,0.0001607783958876,Video Injection_feature_importance_1.0_100
+feature_33,0.0001605720171707,Video Injection_feature_importance_1.0_100
+feature_99,0.0001449812652528,Video Injection_feature_importance_1.0_100
+feature_85,0.0001420856529779,Video Injection_feature_importance_1.0_100
+feature_73,0.0001418442805731,Video Injection_feature_importance_1.0_100
+feature_74,0.0001205075092321,Video Injection_feature_importance_1.0_100
+feature_41,0.0001166714311529,Video Injection_feature_importance_1.0_100
+feature_34,0.0001078329332392,Video Injection_feature_importance_1.0_100
+feature_46,8.854690200407055e-05,Video Injection_feature_importance_1.0_100
+feature_90,8.007419100820317e-05,Video Injection_feature_importance_1.0_100
+feature_23,7.753315968833901e-05,Video Injection_feature_importance_1.0_100
+feature_32,7.12608779764426e-05,Video Injection_feature_importance_1.0_100
+feature_70,7.061003921675168e-05,Video Injection_feature_importance_1.0_100
+feature_39,6.854037385936685e-05,Video Injection_feature_importance_1.0_100
+feature_3,6.118071078279702e-05,Video Injection_feature_importance_1.0_100
+feature_2,6.066527805710979e-05,Video Injection_feature_importance_1.0_100
+feature_17,5.419274654619016e-05,Video Injection_feature_importance_1.0_100
+feature_6,5.4127573358069e-05,Video Injection_feature_importance_1.0_100
+feature_42,5.371552332394331e-05,Video Injection_feature_importance_1.0_100
+feature_5,5.122605141521139e-05,Video Injection_feature_importance_1.0_100
+feature_21,4.66291151730431e-05,Video Injection_feature_importance_1.0_100
+feature_20,4.378284906427026e-05,Video Injection_feature_importance_1.0_100
+feature_71,4.318234269980634e-05,Video Injection_feature_importance_1.0_100
+feature_36,3.3005199943933324e-05,Video Injection_feature_importance_1.0_100
+feature_35,3.077255851002117e-05,Video Injection_feature_importance_1.0_100
+feature_40,3.0096854074482206e-05,Video Injection_feature_importance_1.0_100
+feature_92,2.686842382210201e-05,Video Injection_feature_importance_1.0_100
+feature_67,2.6775409177036956e-05,Video Injection_feature_importance_1.0_100
+feature_18,2.3639606552005523e-05,Video Injection_feature_importance_1.0_100
+feature_68,4.669362278267895e-06,Video Injection_feature_importance_1.0_100
+feature_87,3.891111099115305e-07,Video Injection_feature_importance_1.0_100
+feature_101,0.0,Video Injection_feature_importance_1.0_100
+feature_100,0.0,Video Injection_feature_importance_1.0_100
+feature_107,0.0,Video Injection_feature_importance_1.0_100
+feature_94,0.0,Video Injection_feature_importance_1.0_100
+feature_93,0.0,Video Injection_feature_importance_1.0_100
+feature_108,0.0,Video Injection_feature_importance_1.0_100
+feature_86,0.0,Video Injection_feature_importance_1.0_100
+feature_114,0.0,Video Injection_feature_importance_1.0_100
+feature_115,0.0,Video Injection_feature_importance_1.0_100
+feature_84,0.2048816627694903,OS Scan_feature_importance_1.0_100
+feature_105,0.1693565073666322,OS Scan_feature_importance_1.0_100
+feature_91,0.1314642379224796,OS Scan_feature_importance_1.0_100
+feature_98,0.1048989403960714,OS Scan_feature_importance_1.0_100
+feature_112,0.0906536356179119,OS Scan_feature_importance_1.0_100
+feature_55,0.0383803343058593,OS Scan_feature_importance_1.0_100
+feature_63,0.0336247682327313,OS Scan_feature_importance_1.0_100
+feature_35,0.031196981115922,OS Scan_feature_importance_1.0_100
+feature_62,0.0240456307069386,OS Scan_feature_importance_1.0_100
+feature_34,0.0240320892211279,OS Scan_feature_importance_1.0_100
+feature_42,0.023946968456578,OS Scan_feature_importance_1.0_100
+feature_99,0.019101868506213,OS Scan_feature_importance_1.0_100
+feature_41,0.0144587138436577,OS Scan_feature_importance_1.0_100
+feature_109,0.0144338972043895,OS Scan_feature_importance_1.0_100
+feature_48,0.0144284761764171,OS Scan_feature_importance_1.0_100
+feature_56,0.0096270082638682,OS Scan_feature_importance_1.0_100
+feature_49,0.0096227739094776,OS Scan_feature_importance_1.0_100
+feature_16,0.0095907580688956,OS Scan_feature_importance_1.0_100
+feature_31,0.0095768751339551,OS Scan_feature_importance_1.0_100
+feature_95,0.0049148685482709,OS Scan_feature_importance_1.0_100
+feature_102,0.0048370500067515,OS Scan_feature_importance_1.0_100
+feature_38,0.004833543058317,OS Scan_feature_importance_1.0_100
+feature_10,0.0034165046020776,OS Scan_feature_importance_1.0_100
+feature_28,0.0023780756818908,OS Scan_feature_importance_1.0_100
+feature_71,0.0013098078398405,OS Scan_feature_importance_1.0_100
+feature_14,5.3825806362730827e-05,OS Scan_feature_importance_1.0_100
+feature_4,5.367747427424822e-05,OS Scan_feature_importance_1.0_100
+feature_1,4.4210433537796576e-05,OS Scan_feature_importance_1.0_100
+feature_22,4.231063066379592e-05,OS Scan_feature_importance_1.0_100
+feature_15,4.18129131352437e-05,OS Scan_feature_importance_1.0_100
+feature_5,3.849378655088306e-05,OS Scan_feature_importance_1.0_100
+feature_19,3.639123615974955e-05,OS Scan_feature_importance_1.0_100
+feature_66,3.3254868778745766e-05,OS Scan_feature_importance_1.0_100
+feature_3,3.228504084474784e-05,OS Scan_feature_importance_1.0_100
+feature_69,3.143300332412809e-05,OS Scan_feature_importance_1.0_100
+feature_12,2.6673526424319768e-05,OS Scan_feature_importance_1.0_100
+feature_27,2.4399051317195767e-05,OS Scan_feature_importance_1.0_100
+feature_30,2.297119359298108e-05,OS Scan_feature_importance_1.0_100
+feature_25,2.001644439326003e-05,OS Scan_feature_importance_1.0_100
+feature_60,1.9031707821770337e-05,OS Scan_feature_importance_1.0_100
+feature_67,1.837237393851108e-05,OS Scan_feature_importance_1.0_100
+feature_72,1.7918152758954893e-05,OS Scan_feature_importance_1.0_100
+feature_11,1.7837117509715644e-05,OS Scan_feature_importance_1.0_100
+feature_78,1.576308989667326e-05,OS Scan_feature_importance_1.0_100
+feature_46,1.5545449305342983e-05,OS Scan_feature_importance_1.0_100
+feature_45,1.532964052987111e-05,OS Scan_feature_importance_1.0_100
+feature_88,1.49741884423118e-05,OS Scan_feature_importance_1.0_100
+feature_70,1.454702276998206e-05,OS Scan_feature_importance_1.0_100
+feature_59,1.429809961817836e-05,OS Scan_feature_importance_1.0_100
+feature_20,1.4218235709320042e-05,OS Scan_feature_importance_1.0_100
+feature_53,1.4122672575734382e-05,OS Scan_feature_importance_1.0_100
+feature_13,1.3950773835119197e-05,OS Scan_feature_importance_1.0_100
+feature_7,1.3789658889401267e-05,OS Scan_feature_importance_1.0_100
+feature_96,1.2638608486955916e-05,OS Scan_feature_importance_1.0_100
+feature_89,1.2448249606522915e-05,OS Scan_feature_importance_1.0_100
+feature_113,1.211466040429399e-05,OS Scan_feature_importance_1.0_100
+feature_29,1.183448417743976e-05,OS Scan_feature_importance_1.0_100
+feature_81,1.181197164583011e-05,OS Scan_feature_importance_1.0_100
+feature_8,1.1598074309823189e-05,OS Scan_feature_importance_1.0_100
+feature_58,1.0494119137788576e-05,OS Scan_feature_importance_1.0_100
+feature_80,1.0395192979096258e-05,OS Scan_feature_importance_1.0_100
+feature_24,1.0068993329392631e-05,OS Scan_feature_importance_1.0_100
+feature_6,1.000127458720639e-05,OS Scan_feature_importance_1.0_100
+feature_106,9.309155358300896e-06,OS Scan_feature_importance_1.0_100
+feature_26,8.03678860654472e-06,OS Scan_feature_importance_1.0_100
+feature_74,7.674498037688301e-06,OS Scan_feature_importance_1.0_100
+feature_23,6.84213668941845e-06,OS Scan_feature_importance_1.0_100
+feature_75,6.387529261294874e-06,OS Scan_feature_importance_1.0_100
+feature_52,6.160571525876294e-06,OS Scan_feature_importance_1.0_100
+feature_77,5.993229144270218e-06,OS Scan_feature_importance_1.0_100
+feature_79,5.949637466719929e-06,OS Scan_feature_importance_1.0_100
+feature_68,5.591959884802439e-06,OS Scan_feature_importance_1.0_100
+feature_64,5.425977581008201e-06,OS Scan_feature_importance_1.0_100
+feature_85,5.346542665193187e-06,OS Scan_feature_importance_1.0_100
+feature_57,5.106330962698438e-06,OS Scan_feature_importance_1.0_100
+feature_103,4.821721635804209e-06,OS Scan_feature_importance_1.0_100
+feature_21,4.704228529410708e-06,OS Scan_feature_importance_1.0_100
+feature_40,4.467547286876835e-06,OS Scan_feature_importance_1.0_100
+feature_39,4.310674784880095e-06,OS Scan_feature_importance_1.0_100
+feature_2,4.1726580036312506e-06,OS Scan_feature_importance_1.0_100
+feature_76,4.073670818161797e-06,OS Scan_feature_importance_1.0_100
+feature_65,3.619868337304909e-06,OS Scan_feature_importance_1.0_100
+feature_54,3.510634432159191e-06,OS Scan_feature_importance_1.0_100
+feature_50,3.297794110075593e-06,OS Scan_feature_importance_1.0_100
+feature_9,3.0007917656872662e-06,OS Scan_feature_importance_1.0_100
+feature_104,2.960205264473289e-06,OS Scan_feature_importance_1.0_100
+feature_37,2.952685981516253e-06,OS Scan_feature_importance_1.0_100
+feature_44,2.9223552566447565e-06,OS Scan_feature_importance_1.0_100
+feature_110,2.842146873199649e-06,OS Scan_feature_importance_1.0_100
+feature_43,2.7817697452442848e-06,OS Scan_feature_importance_1.0_100
+feature_73,2.706854306148826e-06,OS Scan_feature_importance_1.0_100
+feature_17,2.486250092511369e-06,OS Scan_feature_importance_1.0_100
+feature_47,2.470055095726162e-06,OS Scan_feature_importance_1.0_100
+feature_61,2.1690218549420897e-06,OS Scan_feature_importance_1.0_100
+feature_83,2.101317777401481e-06,OS Scan_feature_importance_1.0_100
+feature_36,1.5188030090360489e-06,OS Scan_feature_importance_1.0_100
+feature_111,1.3925992167312316e-06,OS Scan_feature_importance_1.0_100
+feature_92,1.0309456376028818e-06,OS Scan_feature_importance_1.0_100
+feature_18,9.111234294514476e-07,OS Scan_feature_importance_1.0_100
+feature_51,8.599051816915504e-07,OS Scan_feature_importance_1.0_100
+feature_33,7.096855485894564e-07,OS Scan_feature_importance_1.0_100
+feature_32,6.659031013559441e-07,OS Scan_feature_importance_1.0_100
+feature_82,6.134770850533248e-07,OS Scan_feature_importance_1.0_100
+feature_86,4.257350058767281e-07,OS Scan_feature_importance_1.0_100
+feature_114,2.1354042084596649e-07,OS Scan_feature_importance_1.0_100
+feature_90,2.1252668254252978e-07,OS Scan_feature_importance_1.0_100
+feature_97,2.0789700485383826e-07,OS Scan_feature_importance_1.0_100
+feature_93,2.0507215011254809e-07,OS Scan_feature_importance_1.0_100
+feature_101,0.0,OS Scan_feature_importance_1.0_100
+feature_100,0.0,OS Scan_feature_importance_1.0_100
+feature_107,0.0,OS Scan_feature_importance_1.0_100
+feature_108,0.0,OS Scan_feature_importance_1.0_100
+feature_94,0.0,OS Scan_feature_importance_1.0_100
+feature_87,0.0,OS Scan_feature_importance_1.0_100
+feature_115,0.0,OS Scan_feature_importance_1.0_100
+feature_28,0.0977138086940937,Fuzzing_feature_importance_1.0_100
+feature_80,0.096562634781853,Fuzzing_feature_importance_1.0_100
+feature_59,0.0934912227411919,Fuzzing_feature_importance_1.0_100
+feature_79,0.0897328307118649,Fuzzing_feature_importance_1.0_100
+feature_13,0.063350697732451,Fuzzing_feature_importance_1.0_100
+feature_15,0.0577410137056256,Fuzzing_feature_importance_1.0_100
+feature_63,0.0517013870227438,Fuzzing_feature_importance_1.0_100
+feature_78,0.0481016689187058,Fuzzing_feature_importance_1.0_100
+feature_109,0.0449311964750661,Fuzzing_feature_importance_1.0_100
+feature_61,0.025758683025179,Fuzzing_feature_importance_1.0_100
+feature_27,0.02070590349615,Fuzzing_feature_importance_1.0_100
+feature_54,0.0198463158202772,Fuzzing_feature_importance_1.0_100
+feature_12,0.0192237549665934,Fuzzing_feature_importance_1.0_100
+feature_30,0.0183144275104144,Fuzzing_feature_importance_1.0_100
+feature_47,0.0175434197045888,Fuzzing_feature_importance_1.0_100
+feature_29,0.0168185351409823,Fuzzing_feature_importance_1.0_100
+feature_56,0.0160014392057029,Fuzzing_feature_importance_1.0_100
+feature_14,0.0152665599445095,Fuzzing_feature_importance_1.0_100
+feature_112,0.0148369335489409,Fuzzing_feature_importance_1.0_100
+feature_62,0.0148232199650899,Fuzzing_feature_importance_1.0_100
+feature_60,0.0135558830652923,Fuzzing_feature_importance_1.0_100
+feature_49,0.0115551664640911,Fuzzing_feature_importance_1.0_100
+feature_110,0.008997312138194,Fuzzing_feature_importance_1.0_100
+feature_6,0.0082020791140615,Fuzzing_feature_importance_1.0_100
+feature_40,0.0081962220729833,Fuzzing_feature_importance_1.0_100
+feature_42,0.0081600279657471,Fuzzing_feature_importance_1.0_100
+feature_53,0.0077332866042391,Fuzzing_feature_importance_1.0_100
+feature_8,0.0072412856812194,Fuzzing_feature_importance_1.0_100
+feature_65,0.0071504999750103,Fuzzing_feature_importance_1.0_100
+feature_55,0.0067856026962936,Fuzzing_feature_importance_1.0_100
+feature_111,0.0066494263150158,Fuzzing_feature_importance_1.0_100
+feature_64,0.0059309777265108,Fuzzing_feature_importance_1.0_100
+feature_113,0.0056586392082856,Fuzzing_feature_importance_1.0_100
+feature_26,0.0041983816426743,Fuzzing_feature_importance_1.0_100
+feature_9,0.004194196587103,Fuzzing_feature_importance_1.0_100
+feature_11,0.0040020740363948,Fuzzing_feature_importance_1.0_100
+feature_41,0.0037992182583537,Fuzzing_feature_importance_1.0_100
+feature_24,0.0032774902682664,Fuzzing_feature_importance_1.0_100
+feature_77,0.0030100680190829,Fuzzing_feature_importance_1.0_100
+feature_21,0.0027699136856935,Fuzzing_feature_importance_1.0_100
+feature_3,0.0023878098299752,Fuzzing_feature_importance_1.0_100
+feature_76,0.0021308106940718,Fuzzing_feature_importance_1.0_100
+feature_5,0.0017403622252077,Fuzzing_feature_importance_1.0_100
+feature_25,0.0016307547032238,Fuzzing_feature_importance_1.0_100
+feature_57,0.0015784822465563,Fuzzing_feature_importance_1.0_100
+feature_46,0.0012745500671462,Fuzzing_feature_importance_1.0_100
+feature_23,0.001054617097561,Fuzzing_feature_importance_1.0_100
+feature_20,0.0010238069900632,Fuzzing_feature_importance_1.0_100
+feature_2,0.0010138985593811,Fuzzing_feature_importance_1.0_100
+feature_103,0.0009550932187041,Fuzzing_feature_importance_1.0_100
+feature_105,0.0008303955868811,Fuzzing_feature_importance_1.0_100
+feature_19,0.0008030251074762,Fuzzing_feature_importance_1.0_100
+feature_52,0.0007878069973779,Fuzzing_feature_importance_1.0_100
+feature_58,0.0007440569151398,Fuzzing_feature_importance_1.0_100
+feature_7,0.0007235616257605,Fuzzing_feature_importance_1.0_100
+feature_48,0.0006776815966718,Fuzzing_feature_importance_1.0_100
+feature_104,0.000668913833485,Fuzzing_feature_importance_1.0_100
+feature_106,0.0005448415132106,Fuzzing_feature_importance_1.0_100
+feature_102,0.0005301993202819,Fuzzing_feature_importance_1.0_100
+feature_10,0.0004744670444067,Fuzzing_feature_importance_1.0_100
+feature_75,0.0004510551651936,Fuzzing_feature_importance_1.0_100
+feature_33,0.0004093412035736,Fuzzing_feature_importance_1.0_100
+feature_1,0.0003357497493922,Fuzzing_feature_importance_1.0_100
+feature_35,0.0003171131291579,Fuzzing_feature_importance_1.0_100
+feature_37,0.0003030584183803,Fuzzing_feature_importance_1.0_100
+feature_39,0.0002869471240064,Fuzzing_feature_importance_1.0_100
+feature_17,0.0002390377386314,Fuzzing_feature_importance_1.0_100
+feature_34,0.0002375463484439,Fuzzing_feature_importance_1.0_100
+feature_66,0.0002095635649297,Fuzzing_feature_importance_1.0_100
+feature_38,0.000198182328566,Fuzzing_feature_importance_1.0_100
+feature_72,0.0001880334758073,Fuzzing_feature_importance_1.0_100
+feature_22,0.0001721165838892,Fuzzing_feature_importance_1.0_100
+feature_4,0.000151696033072,Fuzzing_feature_importance_1.0_100
+feature_73,0.0001383806880947,Fuzzing_feature_importance_1.0_100
+feature_45,0.0001269190737114,Fuzzing_feature_importance_1.0_100
+feature_51,9.795998317376804e-05,Fuzzing_feature_importance_1.0_100
+feature_95,9.649897999197668e-05,Fuzzing_feature_importance_1.0_100
+feature_68,9.069411295964756e-05,Fuzzing_feature_importance_1.0_100
+feature_98,8.545451639568268e-05,Fuzzing_feature_importance_1.0_100
+feature_96,8.332954848344616e-05,Fuzzing_feature_importance_1.0_100
+feature_88,7.52102106991915e-05,Fuzzing_feature_importance_1.0_100
+feature_82,5.982380870902981e-05,Fuzzing_feature_importance_1.0_100
+feature_91,4.479579000322548e-05,Fuzzing_feature_importance_1.0_100
+feature_50,4.32038906702044e-05,Fuzzing_feature_importance_1.0_100
+feature_16,3.932112776682533e-05,Fuzzing_feature_importance_1.0_100
+feature_67,3.7633474472565e-05,Fuzzing_feature_importance_1.0_100
+feature_89,3.500229257267539e-05,Fuzzing_feature_importance_1.0_100
+feature_31,3.228766580490152e-05,Fuzzing_feature_importance_1.0_100
+feature_32,3.0271553373839727e-05,Fuzzing_feature_importance_1.0_100
+feature_43,3.019360792285074e-05,Fuzzing_feature_importance_1.0_100
+feature_97,2.7003999226104127e-05,Fuzzing_feature_importance_1.0_100
+feature_69,2.26577873872456e-05,Fuzzing_feature_importance_1.0_100
+feature_71,2.2095068498897676e-05,Fuzzing_feature_importance_1.0_100
+feature_90,2.171332105633446e-05,Fuzzing_feature_importance_1.0_100
+feature_99,2.1063601683369054e-05,Fuzzing_feature_importance_1.0_100
+feature_81,2.0881631070963585e-05,Fuzzing_feature_importance_1.0_100
+feature_18,2.016765042482047e-05,Fuzzing_feature_importance_1.0_100
+feature_92,1.7883687837830873e-05,Fuzzing_feature_importance_1.0_100
+feature_44,1.588257855066772e-05,Fuzzing_feature_importance_1.0_100
+feature_84,1.5414296140423743e-05,Fuzzing_feature_importance_1.0_100
+feature_83,1.1556033359154104e-05,Fuzzing_feature_importance_1.0_100
+feature_85,1.077422333774998e-05,Fuzzing_feature_importance_1.0_100
+feature_36,9.03244876666839e-06,Fuzzing_feature_importance_1.0_100
+feature_74,8.354836721958407e-06,Fuzzing_feature_importance_1.0_100
+feature_70,4.7831996691623e-07,Fuzzing_feature_importance_1.0_100
+feature_108,7.951899888737283e-08,Fuzzing_feature_importance_1.0_100
+feature_107,0.0,Fuzzing_feature_importance_1.0_100
+feature_100,0.0,Fuzzing_feature_importance_1.0_100
+feature_101,0.0,Fuzzing_feature_importance_1.0_100
+feature_114,0.0,Fuzzing_feature_importance_1.0_100
+feature_94,0.0,Fuzzing_feature_importance_1.0_100
+feature_93,0.0,Fuzzing_feature_importance_1.0_100
+feature_87,0.0,Fuzzing_feature_importance_1.0_100
+feature_86,0.0,Fuzzing_feature_importance_1.0_100
+feature_115,0.0,Fuzzing_feature_importance_1.0_100
+feature_109,0.1684556014034043,ARP MitM_feature_importance_1.0_100
+feature_28,0.1158916447944904,ARP MitM_feature_importance_1.0_100
+feature_78,0.1113152476329205,ARP MitM_feature_importance_1.0_100
+feature_59,0.0863526445565574,ARP MitM_feature_importance_1.0_100
+feature_13,0.0731569531931858,ARP MitM_feature_importance_1.0_100
+feature_64,0.0647387216509173,ARP MitM_feature_importance_1.0_100
+feature_80,0.0562713280524627,ARP MitM_feature_importance_1.0_100
+feature_65,0.0449774592537073,ARP MitM_feature_importance_1.0_100
+feature_79,0.0434546539386544,ARP MitM_feature_importance_1.0_100
+feature_15,0.0218864984994787,ARP MitM_feature_importance_1.0_100
+feature_60,0.0170056329226371,ARP MitM_feature_importance_1.0_100
+feature_29,0.0149500391443338,ARP MitM_feature_importance_1.0_100
+feature_63,0.0136908790996525,ARP MitM_feature_importance_1.0_100
+feature_62,0.011856995377815,ARP MitM_feature_importance_1.0_100
+feature_14,0.0115233980906475,ARP MitM_feature_importance_1.0_100
+feature_110,0.0100274389686159,ARP MitM_feature_importance_1.0_100
+feature_57,0.0089556367932781,ARP MitM_feature_importance_1.0_100
+feature_61,0.0080524990495509,ARP MitM_feature_importance_1.0_100
+feature_11,0.0075831388569935,ARP MitM_feature_importance_1.0_100
+feature_55,0.0070483454888269,ARP MitM_feature_importance_1.0_100
+feature_58,0.0070418972350466,ARP MitM_feature_importance_1.0_100
+feature_53,0.0070374760272757,ARP MitM_feature_importance_1.0_100
+feature_56,0.0064296824783196,ARP MitM_feature_importance_1.0_100
+feature_112,0.006377720830332,ARP MitM_feature_importance_1.0_100
+feature_30,0.0061627365250605,ARP MitM_feature_importance_1.0_100
+feature_102,0.0047102231330656,ARP MitM_feature_importance_1.0_100
+feature_77,0.0038637048458312,ARP MitM_feature_importance_1.0_100
+feature_25,0.00384071911781,ARP MitM_feature_importance_1.0_100
+feature_72,0.0037797719086591,ARP MitM_feature_importance_1.0_100
+feature_113,0.0037750392765151,ARP MitM_feature_importance_1.0_100
+feature_54,0.0037168688142428,ARP MitM_feature_importance_1.0_100
+feature_52,0.003512746582095,ARP MitM_feature_importance_1.0_100
+feature_111,0.0030837407371585,ARP MitM_feature_importance_1.0_100
+feature_4,0.0030001649709684,ARP MitM_feature_importance_1.0_100
+feature_8,0.0027726178826668,ARP MitM_feature_importance_1.0_100
+feature_12,0.0026479743512422,ARP MitM_feature_importance_1.0_100
+feature_49,0.0023677477456466,ARP MitM_feature_importance_1.0_100
+feature_26,0.0022967029362692,ARP MitM_feature_importance_1.0_100
+feature_76,0.0022925109356917,ARP MitM_feature_importance_1.0_100
+feature_75,0.0021191661715445,ARP MitM_feature_importance_1.0_100
+feature_31,0.0019003259528225,ARP MitM_feature_importance_1.0_100
+feature_19,0.0016799379324755,ARP MitM_feature_importance_1.0_100
+feature_16,0.0013457308285812,ARP MitM_feature_importance_1.0_100
+feature_47,0.0012749467060446,ARP MitM_feature_importance_1.0_100
+feature_23,0.0012385604566275,ARP MitM_feature_importance_1.0_100
+feature_106,0.0011898289201648,ARP MitM_feature_importance_1.0_100
+feature_24,0.0011437593379041,ARP MitM_feature_importance_1.0_100
+feature_10,0.0010268712182086,ARP MitM_feature_importance_1.0_100
+feature_27,0.0009600334052673,ARP MitM_feature_importance_1.0_100
+feature_39,0.0008060940562047,ARP MitM_feature_importance_1.0_100
+feature_104,0.0007211552118665,ARP MitM_feature_importance_1.0_100
+feature_96,0.0006496747350388,ARP MitM_feature_importance_1.0_100
+feature_38,0.0006212226404559,ARP MitM_feature_importance_1.0_100
+feature_48,0.0005406796834798,ARP MitM_feature_importance_1.0_100
+feature_22,0.0004768184481715,ARP MitM_feature_importance_1.0_100
+feature_20,0.0004567333629424,ARP MitM_feature_importance_1.0_100
+feature_33,0.0004174384502948,ARP MitM_feature_importance_1.0_100
+feature_91,0.0004115611758141,ARP MitM_feature_importance_1.0_100
+feature_17,0.0003779120431201,ARP MitM_feature_importance_1.0_100
+feature_115,0.0003535887172023,ARP MitM_feature_importance_1.0_100
+feature_45,0.0003526689008531,ARP MitM_feature_importance_1.0_100
+feature_105,0.0003459764181754,ARP MitM_feature_importance_1.0_100
+feature_103,0.0003322046250231,ARP MitM_feature_importance_1.0_100
+feature_90,0.0003032304225293,ARP MitM_feature_importance_1.0_100
+feature_50,0.0002918044586061,ARP MitM_feature_importance_1.0_100
+feature_98,0.0002889349716921,ARP MitM_feature_importance_1.0_100
+feature_99,0.0002875260539106,ARP MitM_feature_importance_1.0_100
+feature_97,0.0002652999125192,ARP MitM_feature_importance_1.0_100
+feature_7,0.0002623999072231,ARP MitM_feature_importance_1.0_100
+feature_82,0.0001948693534351,ARP MitM_feature_importance_1.0_100
+feature_41,0.0001617413742564,ARP MitM_feature_importance_1.0_100
+feature_95,0.0001306351135275,ARP MitM_feature_importance_1.0_100
+feature_74,0.0001203377968335,ARP MitM_feature_importance_1.0_100
+feature_40,0.0001062064050486,ARP MitM_feature_importance_1.0_100
+feature_32,0.0001041011681403,ARP MitM_feature_importance_1.0_100
+feature_71,9.009530584337898e-05,ARP MitM_feature_importance_1.0_100
+feature_18,8.478360897527543e-05,ARP MitM_feature_importance_1.0_100
+feature_51,7.236557277095019e-05,ARP MitM_feature_importance_1.0_100
+feature_9,6.772369537575902e-05,ARP MitM_feature_importance_1.0_100
+feature_46,4.966742341783585e-05,ARP MitM_feature_importance_1.0_100
+feature_34,4.4180913278651307e-05,ARP MitM_feature_importance_1.0_100
+feature_44,3.6862721506140905e-05,ARP MitM_feature_importance_1.0_100
+feature_43,3.543010901427811e-05,ARP MitM_feature_importance_1.0_100
+feature_108,3.0125825857894448e-05,ARP MitM_feature_importance_1.0_100
+feature_1,2.549582761604911e-05,ARP MitM_feature_importance_1.0_100
+feature_2,2.4340020782424156e-05,ARP MitM_feature_importance_1.0_100
+feature_42,2.3127524605961557e-05,ARP MitM_feature_importance_1.0_100
+feature_81,2.247082243290246e-05,ARP MitM_feature_importance_1.0_100
+feature_36,2.1535730253316973e-05,ARP MitM_feature_importance_1.0_100
+feature_37,2.1522774293345096e-05,ARP MitM_feature_importance_1.0_100
+feature_5,2.0931869446069624e-05,ARP MitM_feature_importance_1.0_100
+feature_21,2.021411926818946e-05,ARP MitM_feature_importance_1.0_100
+feature_88,1.946851766000708e-05,ARP MitM_feature_importance_1.0_100
+feature_84,1.845617852836918e-05,ARP MitM_feature_importance_1.0_100
+feature_89,1.830594515933754e-05,ARP MitM_feature_importance_1.0_100
+feature_66,1.5879191237657503e-05,ARP MitM_feature_importance_1.0_100
+feature_3,1.5106350717919888e-05,ARP MitM_feature_importance_1.0_100
+feature_6,1.401584823674978e-05,ARP MitM_feature_importance_1.0_100
+feature_35,1.0675695544018825e-05,ARP MitM_feature_importance_1.0_100
+feature_92,6.640915552368805e-06,ARP MitM_feature_importance_1.0_100
+feature_85,6.4861167065308015e-06,ARP MitM_feature_importance_1.0_100
+feature_69,5.625819003213999e-06,ARP MitM_feature_importance_1.0_100
+feature_101,5.566563841936159e-06,ARP MitM_feature_importance_1.0_100
+feature_83,2.932293251400253e-06,ARP MitM_feature_importance_1.0_100
+feature_73,1.4870110068433196e-06,ARP MitM_feature_importance_1.0_100
+feature_70,1.1217106676005631e-06,ARP MitM_feature_importance_1.0_100
+feature_68,8.518558979389817e-07,ARP MitM_feature_importance_1.0_100
+feature_67,8.500972313479733e-07,ARP MitM_feature_importance_1.0_100
+feature_94,8.309440166202205e-07,ARP MitM_feature_importance_1.0_100
+feature_107,2.2941170370318442e-08,ARP MitM_feature_importance_1.0_100
+feature_87,2.2701796181962597e-08,ARP MitM_feature_importance_1.0_100
+feature_100,0.0,ARP MitM_feature_importance_1.0_100
+feature_93,0.0,ARP MitM_feature_importance_1.0_100
+feature_86,0.0,ARP MitM_feature_importance_1.0_100
+feature_114,0.0,ARP MitM_feature_importance_1.0_100
+feature_80,0.095023055651551,Active Wiretap_feature_importance_1.0_100
+feature_79,0.0599898292991563,Active Wiretap_feature_importance_1.0_100
+feature_64,0.0530593795170974,Active Wiretap_feature_importance_1.0_100
+feature_65,0.0460244668021648,Active Wiretap_feature_importance_1.0_100
+feature_13,0.0431842030303879,Active Wiretap_feature_importance_1.0_100
+feature_78,0.0416819451736871,Active Wiretap_feature_importance_1.0_100
+feature_112,0.0386617836326034,Active Wiretap_feature_importance_1.0_100
+feature_59,0.0374930407145698,Active Wiretap_feature_importance_1.0_100
+feature_10,0.0362819429475499,Active Wiretap_feature_importance_1.0_100
+feature_52,0.0335837599463051,Active Wiretap_feature_importance_1.0_100
+feature_28,0.0328296814245201,Active Wiretap_feature_importance_1.0_100
+feature_25,0.0299739040844899,Active Wiretap_feature_importance_1.0_100
+feature_30,0.0264942791803378,Active Wiretap_feature_importance_1.0_100
+feature_72,0.0256228172916295,Active Wiretap_feature_importance_1.0_100
+feature_45,0.0251497365478462,Active Wiretap_feature_importance_1.0_100
+feature_60,0.0244875781205008,Active Wiretap_feature_importance_1.0_100
+feature_15,0.0236428284082013,Active Wiretap_feature_importance_1.0_100
+feature_62,0.0224574767657692,Active Wiretap_feature_importance_1.0_100
+feature_61,0.0198600539825332,Active Wiretap_feature_importance_1.0_100
+feature_75,0.0197005285678699,Active Wiretap_feature_importance_1.0_100
+feature_14,0.019618657513555,Active Wiretap_feature_importance_1.0_100
+feature_63,0.0195449959260466,Active Wiretap_feature_importance_1.0_100
+feature_109,0.0184160565621212,Active Wiretap_feature_importance_1.0_100
+feature_29,0.0161470374633842,Active Wiretap_feature_importance_1.0_100
+feature_22,0.0135996239278949,Active Wiretap_feature_importance_1.0_100
+feature_7,0.0116786859779278,Active Wiretap_feature_importance_1.0_100
+feature_38,0.0115459462643654,Active Wiretap_feature_importance_1.0_100
+feature_105,0.0110984471539771,Active Wiretap_feature_importance_1.0_100
+feature_110,0.010781768511815,Active Wiretap_feature_importance_1.0_100
+feature_69,0.0105172848865431,Active Wiretap_feature_importance_1.0_100
+feature_111,0.0100458133925427,Active Wiretap_feature_importance_1.0_100
+feature_19,0.0088133245917745,Active Wiretap_feature_importance_1.0_100
+feature_4,0.0081237014549738,Active Wiretap_feature_importance_1.0_100
+feature_12,0.0078897466665484,Active Wiretap_feature_importance_1.0_100
+feature_1,0.0067136308885055,Active Wiretap_feature_importance_1.0_100
+feature_31,0.0065053033662567,Active Wiretap_feature_importance_1.0_100
+feature_113,0.0063935290618158,Active Wiretap_feature_importance_1.0_100
+feature_56,0.0061492617997687,Active Wiretap_feature_importance_1.0_100
+feature_24,0.0044327361238528,Active Wiretap_feature_importance_1.0_100
+feature_76,0.0038275447383973,Active Wiretap_feature_importance_1.0_100
+feature_55,0.0037439117055647,Active Wiretap_feature_importance_1.0_100
+feature_66,0.0035545884351162,Active Wiretap_feature_importance_1.0_100
+feature_53,0.0034698991127968,Active Wiretap_feature_importance_1.0_100
+feature_27,0.0034418752524408,Active Wiretap_feature_importance_1.0_100
+feature_11,0.00339204670824,Active Wiretap_feature_importance_1.0_100
+feature_115,0.0032798328207505,Active Wiretap_feature_importance_1.0_100
+feature_77,0.0032349536896672,Active Wiretap_feature_importance_1.0_100
+feature_26,0.0032044913576544,Active Wiretap_feature_importance_1.0_100
+feature_16,0.0021847270392253,Active Wiretap_feature_importance_1.0_100
+feature_54,0.0017397654667101,Active Wiretap_feature_importance_1.0_100
+feature_103,0.0016106525862556,Active Wiretap_feature_importance_1.0_100
+feature_57,0.0015772446593246,Active Wiretap_feature_importance_1.0_100
+feature_58,0.0015289980576172,Active Wiretap_feature_importance_1.0_100
+feature_102,0.0015231107021053,Active Wiretap_feature_importance_1.0_100
+feature_114,0.0012381052809212,Active Wiretap_feature_importance_1.0_100
+feature_47,0.0012132247576831,Active Wiretap_feature_importance_1.0_100
+feature_97,0.0010474143664655,Active Wiretap_feature_importance_1.0_100
+feature_5,0.0010324349767098,Active Wiretap_feature_importance_1.0_100
+feature_104,0.000953923880127,Active Wiretap_feature_importance_1.0_100
+feature_49,0.0008889350777254,Active Wiretap_feature_importance_1.0_100
+feature_2,0.0007694530522855,Active Wiretap_feature_importance_1.0_100
+feature_106,0.0006080668822406,Active Wiretap_feature_importance_1.0_100
+feature_108,0.0005833332407211,Active Wiretap_feature_importance_1.0_100
+feature_73,0.00055874474679,Active Wiretap_feature_importance_1.0_100
+feature_23,0.0005563417505273,Active Wiretap_feature_importance_1.0_100
+feature_8,0.000538837485352,Active Wiretap_feature_importance_1.0_100
+feature_32,0.0005070539934164,Active Wiretap_feature_importance_1.0_100
+feature_40,0.0004539901785221,Active Wiretap_feature_importance_1.0_100
+feature_21,0.0004216108187334,Active Wiretap_feature_importance_1.0_100
+feature_42,0.0003940049123148,Active Wiretap_feature_importance_1.0_100
+feature_91,0.0003689242347159,Active Wiretap_feature_importance_1.0_100
+feature_107,0.0002875595595852,Active Wiretap_feature_importance_1.0_100
+feature_96,0.0002560327060829,Active Wiretap_feature_importance_1.0_100
+feature_92,0.0002406767616519,Active Wiretap_feature_importance_1.0_100
+feature_6,0.0002288027076317,Active Wiretap_feature_importance_1.0_100
+feature_82,0.0002040969794465,Active Wiretap_feature_importance_1.0_100
+feature_90,0.0001999899605499,Active Wiretap_feature_importance_1.0_100
+feature_83,0.000194411103453,Active Wiretap_feature_importance_1.0_100
+feature_17,0.0001902215193416,Active Wiretap_feature_importance_1.0_100
+feature_71,0.000169381988563,Active Wiretap_feature_importance_1.0_100
+feature_9,0.0001450424399402,Active Wiretap_feature_importance_1.0_100
+feature_85,0.0001246414811003,Active Wiretap_feature_importance_1.0_100
+feature_68,0.0001188706442009,Active Wiretap_feature_importance_1.0_100
+feature_51,0.0001071464261375,Active Wiretap_feature_importance_1.0_100
+feature_46,9.731141894859355e-05,Active Wiretap_feature_importance_1.0_100
+feature_50,8.344089324141023e-05,Active Wiretap_feature_importance_1.0_100
+feature_48,7.4229695681063e-05,Active Wiretap_feature_importance_1.0_100
+feature_95,6.666716795456739e-05,Active Wiretap_feature_importance_1.0_100
+feature_99,6.368412302632943e-05,Active Wiretap_feature_importance_1.0_100
+feature_84,4.906193970308958e-05,Active Wiretap_feature_importance_1.0_100
+feature_39,4.717679868831224e-05,Active Wiretap_feature_importance_1.0_100
+feature_101,4.6129206632450535e-05,Active Wiretap_feature_importance_1.0_100
+feature_43,3.878575274230174e-05,Active Wiretap_feature_importance_1.0_100
+feature_70,3.669559068750941e-05,Active Wiretap_feature_importance_1.0_100
+feature_41,3.31469214876314e-05,Active Wiretap_feature_importance_1.0_100
+feature_20,2.82999273551333e-05,Active Wiretap_feature_importance_1.0_100
+feature_67,2.7057657961440054e-05,Active Wiretap_feature_importance_1.0_100
+feature_34,2.639747818812407e-05,Active Wiretap_feature_importance_1.0_100
+feature_35,2.2558937124025844e-05,Active Wiretap_feature_importance_1.0_100
+feature_37,2.00928262372263e-05,Active Wiretap_feature_importance_1.0_100
+feature_44,1.7292411271397773e-05,Active Wiretap_feature_importance_1.0_100
+feature_36,1.6153023515980242e-05,Active Wiretap_feature_importance_1.0_100
+feature_18,1.5682598199956465e-05,Active Wiretap_feature_importance_1.0_100
+feature_98,1.52300869931856e-05,Active Wiretap_feature_importance_1.0_100
+feature_33,1.4448531317828988e-05,Active Wiretap_feature_importance_1.0_100
+feature_89,6.631648207338856e-06,Active Wiretap_feature_importance_1.0_100
+feature_3,6.376890100210296e-06,Active Wiretap_feature_importance_1.0_100
+feature_81,5.705558419836012e-06,Active Wiretap_feature_importance_1.0_100
+feature_74,4.034373832515273e-06,Active Wiretap_feature_importance_1.0_100
+feature_88,2.9506256514476003e-06,Active Wiretap_feature_importance_1.0_100
+feature_94,8.989821938627068e-07,Active Wiretap_feature_importance_1.0_100
+feature_87,5.956445226908446e-07,Active Wiretap_feature_importance_1.0_100
+feature_86,2.944149084908909e-07,Active Wiretap_feature_importance_1.0_100
+feature_93,2.100079605766977e-07,Active Wiretap_feature_importance_1.0_100
+feature_100,0.0,Active Wiretap_feature_importance_1.0_100
